@@ -1,4 +1,10 @@
 ### Hi there 👋
+i m a dawn web engineer 
+in the world
+in the deep darkness
+in undersea temple
+
+
 
 <!--
 **kubocker/kubocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
