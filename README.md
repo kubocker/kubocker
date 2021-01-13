@@ -1,15 +1,21 @@
 ### Hi there 👋
 - serverless + cross platform application development
-ex. ionic, react native, flutter
+```
+ex.
+- Firebase
+- ionic + capacitor
+- React Native
+- Flutter
+```
 
 
 ### skills
 |Lan  |Web  |Game & Native  |Others |
 |---|---|---|---|
-|C/C++|-|Cocos2dx, Unreal Engine|Qt|
+|C/C++|-|**Cocos2dx**, Unreal Engine|Qt|
 |Go|Beego, Gin, Echo|-|-|
-|Python|Django, Flask|-|scikit-learn, pyqt|
-|ES/TS|Node.js, Vue.js, Angular, React|Ionic + Capacitor, React Native, cocosjs|-|
+|Python|Django, **Flask**|-|scikit-learn, pyqt|
+|ES/TS|Node.js, Vue.js, **Angular**, **React**|**Ionic + Capacitor**, React Native, cocosjs|-|
 |Dart|-|Flutter|-|
 |Rust|-|-|-|
 
@@ -26,17 +32,6 @@ ex. ionic, react native, flutter
 |2018年07月  |2018年09月  |セキュリティカメラIoT用サービス管理画面開発  |
 |2018年04月  |2018年06月  |不動産関連概算予測システム開発  |
 |2017年06月  |2018年05月  |業務システム関連機械学習プロトタイプ開発  |
-
-- 正社員
-|開始日  |終了日  |概要  |
-|---|---|---|
-|2017年09月  |2017年07月  |Emotion Intelligence株式会社  |
-|2015年09月  |2017年07月  |株式会社DMM.comラボ |
-|2015年04月  |2015年08月  |株式会社gloops/転籍  |
-|2013年06月  |2015年04月  |株式会社インブルー/株式会社gloopsへ吸収合併 |
-|2011年11月  |2013年06月  |株式会社フルイヤー  |
-|2009年02月  |2011年08月  |株式会社リマージュアーツ  |
-
 
 
 
