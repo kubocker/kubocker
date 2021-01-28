@@ -23,8 +23,9 @@ ex.
 
 
 ### urls
-https://zenn.dev/kubocker
-https://kubocker.github.io/
+- https://zenn.dev/kubocker  
+- https://kubocker.github.io/ 
+- https://note.com/kubocker 
 
 
 
